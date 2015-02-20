@@ -1,0 +1,2 @@
+flush-iptables:
+  iptables.flush
